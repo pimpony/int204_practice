@@ -1,0 +1,21 @@
+body {
+  padding-top: 50px;
+  color: deepskyblue;
+  margin: auto;
+
+  
+}
+a,h2,th{
+  color: hotpink;
+}
+
+nav{
+  background-color: mediumpurple;
+  color: white;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+  background-color: mediumpurple;
+  
+}
